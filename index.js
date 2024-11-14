@@ -7,7 +7,7 @@ import fetch from 'node-fetch';
 import { marked } from "marked";
 
 const app = express();
-const port = 171411;
+const port = 1411;
 
 mongoose.set("strictQuery", false);
 // Set the view engine to EJS
